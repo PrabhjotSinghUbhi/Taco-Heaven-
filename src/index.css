@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+.font-fugaz {
+    font-family: 'Fugaz One', monospace;
+}
+
+.font-nunito {
+    font-family: 'Nunito', monospace;
+}
