@@ -4,7 +4,7 @@ function Menu() {
   return (
     <div className="mb-35">
       <img
-        src="/src/assets/images/tacos_close_up_1000x649.png"
+        src="/images/tacos_close_up_1000x649.png"
         alt=""
         className="w-full"
       />

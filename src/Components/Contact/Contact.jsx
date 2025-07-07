@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div>
       <img
-        src="/src/assets/images/tacos_delicioso_1000x667.png"
+        src="/images/tacos_delicioso_1000x667.png"
         alt=""
         className="w-full"
       />

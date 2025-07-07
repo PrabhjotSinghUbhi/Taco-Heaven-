@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="mb-20">
       <img
-        src="/src/assets/images/tacos_tray_400x267.png"
+        src="/images/tacos_tray_400x267.png"
         alt="img"
         className="w-full "
       />
@@ -15,7 +15,8 @@ function About() {
         <p className="text-lg text-gray-700 mb-4">
           Welcome to{" "}
           <span className="font-semibold text-green-800">Little Taco Shop</span>
-          ! We are passionate about bringing you the freshest, most delicious
+          {" "}!
+          We are passionate about bringing you the freshest, most delicious
           tacos inspired by authentic Mexican flavors. Our journey began with a
           simple love for tacos and a desire to share that love with our
           community.

@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="mb-35">
       <img
-        src="/src/assets/images/tacos_and_drink_1000x667.png"
+        src="/images/tacos_and_drink_1000x667.png"
         alt=""
         className="w-full"
       />
@@ -20,10 +20,10 @@ function Home() {
           <p className="text-gray-700">
             From ancient Aztec kitchens to global street food fame, tacos have
             always been about flavor, tradition, and creativity.{" "}
-            <span role="img" aria-label="corn">
+            <span aria-label="corn">
               🌽
             </span>
-            <span role="img" aria-label="Mexico flag">
+            <span aria-label="Mexico flag">
               <img
                 src="https://flagsapi.com/MX/shiny/64.png"
                 alt="mx"
