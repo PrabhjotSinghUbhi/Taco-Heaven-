@@ -9,7 +9,7 @@ Take a look at the Little Taco Shop in action:
 ![Little Taco Shop Screenshot](./public/screenshot.png)
 <!-- Place your screenshot at public/screenshot.png or update the path as needed -->
 
-**Live Demo:** [View the Little Taco Shop](https://your-deployment-link.com)
+**Live Demo:** [View the Little Taco Shop]([https://your-deployment-link.com](https://taco-heaven-79vyp55f4-prabhjot-singhs-projects-9271e357.vercel.app)
 <!-- Replace with your actual deployed site link -->
 
 ## Features
